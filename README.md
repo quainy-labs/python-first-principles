@@ -37,6 +37,8 @@ The curriculum follows strict dependency order and avoids unexplained magic.
 
 # Book Structure
 
+Start with the [Preface](PREFACE.md) for the curriculum's intent, reading guidance, and expectations.
+
 ## Volume I — Foundations and Core Language
 
 Volume I builds the complete mental model required before advanced Python feels natural. It starts below Python, moves through execution, objects, references, primitive types, control flow, functions, data structures, memory behavior, and finally modules/imports.
